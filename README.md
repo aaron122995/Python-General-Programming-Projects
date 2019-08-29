@@ -1,8 +1,20 @@
 # Python-Projects
-1. General Programming projects:
-<p>a) Tic Tag Toe</p>
-<p>b) Function Excercises</p>
-<p>c) Bubble Sort Algorithm</p>
-<p>d) Finding nth Fibonacci number</p>
+<ol>
+<li>General Programming projects:
+ <ul>
+<li>Tic Tag Toe</li>
+<li>Function Excercises</li>
+<li>Bubble Sort Algorithm</li>
+<li>Finding nth Fibonacci number</li>
+</ul>
+</li>
+ 
 
-2. Data Science Projects
+<li>Data Science Projects</li>
+
+
+
+
+<li>Certifcates</li>
+
+</ol>
